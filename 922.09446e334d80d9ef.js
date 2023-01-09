@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkngBook=self.webpackChunkngBook||[]).push([[922],{8922:(t,u,n)=>{n.r(u),n.d(u,{DiModule:()=>d});var a=n(6895),l=n(4650);let d=(()=>{class o{}return o.\u0275fac=function(s){return new(s||o)},o.\u0275mod=l.oAB({type:o}),o.\u0275inj=l.cJS({imports:[a.ez]}),o})()}}]);
